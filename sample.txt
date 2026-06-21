@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog.
+THE fox and the dog became friends in the end.
+A fox, a fox, and yet another fox appeared today.
+Fox! the crowd shouted. The fox just smiled back.
+the the the - repetition makes testing the counter easy.
+Learning Python is fun, and writing Python is fun.
+The fox loved Python, and the dog loved fun too.
